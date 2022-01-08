@@ -16,6 +16,9 @@ header {
     justify-content: space-around;
     background-color: rgb(255, 255, 255);
 }
+header img {
+    margin-left: auto;
+}
 header a {
     text-decoration: none;
     color: black;
