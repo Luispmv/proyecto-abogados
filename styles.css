@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarina&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -8,6 +9,7 @@ html {
 }
 body {
     height: 625px;
+    font-family: 'Sarina', cursive;
 }
 header {
     width: 100%;
